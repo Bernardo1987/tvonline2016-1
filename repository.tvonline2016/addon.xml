@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.tvomline2016" name="tv-online2016 official Repo" version="1.0" provider-name="Bernardo">
+	<extension point="xbmc.addon.repository" name="tv-online2016 official Repo">
+		<info compressed="false">https://raw.github.com/Bernardo1987/tvonline2016-1/master/addons.xml</info>
+		<checksum>https://raw.github.com/Bernardo1987/tvonline2016-1/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/Bernardo1987/tvonline2016-1/master </datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>tv-online2016 official Repo</summary>
+   		<description lang="en">Instala los Addons necesarios para funcionar el addon tv-online 2016.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+
+
+
+
